@@ -43,7 +43,8 @@
     "browser-sync": "~1.5.1",
     "connect": "~3.2.0",
     "gulp-util": "~3.0.1",
-    "serve-static": "~1.6.2"
+    "serve-static": "~1.6.2",
+    "gulp-autoprefixer": "~1.0.1"
   },
   "jest": {
     "unmockedModulePathPatterns": [
